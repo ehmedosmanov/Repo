@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navbar-items,
+  ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 19px;
+  }
+  
+  body {
+    font-family: sans-serif;
+  }
+  
